@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+    background-color: #f2f0ea;
+    background-image: url(/images/background-030117.jpg);
+    background-position: center top;
+    background-repeat: repeat;
+}
+
+#B2C_Header, #B2C_Header *, #B2C_Seperator, #B2C_Seperator * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#B2C_RelatedSites {
+    position: relative;
+    z-index: 2;
+}
+
+#B2C_MasterPage {
+    font-size: 0 !important;
+    line-height: 0;
+    -webkit-box-shadow: 0 0 0 1px #c4c3af, 0 0 80px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 0 1px #c4c3af, 0 0 80px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 0 1px #c4c3af, 0 0 80px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 1;
+}
+
+#B2C_Header, #B2C_Header #headerLogo1,
+#B2C_Header #headerSearch, #B2C_Header #headerSearch div, #B2C_Header #headerSearch .searchBox, #B2C_Header #headerSearch #btnSearch,
+#B2C_Header #horizNav,
+.boldChatSpace,
+#heading_links,
+#B2C_Header .shoppingCart, #B2C_Header .shoppingCart .shoppingCartCheckoutLink, #B2C_Header .shoppingCart .shoppingCartCheckoutLink a, #B2C_Header .shoppingCart .shoppingCartItemCount,
+#B2C_Header .login, #B2C_Header .login .loginText, #B2C_Header .login .myAccountLink, #B2C_Header .login .loginText a, #B2C_Header .login .myAccountLink a,
+#B2C_Header #top_nav li, #B2C_Header #top_nav a,
+.email_sign_up,
+#McAfeeSecureLink,
+#B2C_Seperator, #B2C_Seperator .breadcrumb, #B2C_Seperator .breadcrumb .breadcrumb_nav, #B2C_Seperator .breadcrumb .breadcrumb_current, #B2C_Seperator .breadcrumb .breadcrumb_current_nav {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+
+#B2C_Header, #B2C_Header #headerLogo1,
+#B2C_Header #headerSearch div, #B2C_Header #headerSearch .searchBox, #B2C_Header #headerSearch #btnSearch,
+#B2C_Header #horizNav,
+#heading_links,
+#B2C_Header .shoppingCart,
+#B2C_Header .login, #B2C_Header .login .loginText, #B2C_Header .login .myAccountLink, #B2C_Header .login .loginText a, #B2C_Header .login .myAccountLink a,
+#B2C_Header #top_nav li, #B2C_Header #top_nav a,
+#B2C_Seperator .breadcrumb, #B2C_Seperator .breadcrumb .breadcrumb_nav, #B2C_Seperator .breadcrumb .breadcrumb_current, #B2C_Seperator .breadcrumb .breadcrumb_current_nav {
+    float: none;
+}
+
+#B2C_Header {
+    margin: 0;
+    font-size: 0;
+    line-height: 0;
+    background-image: none;
+    width: 100%;
+    height: auto;
+}
+
+#B2C_Header #headerLogo1 {
+    padding: 0;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#B2C_Header #headerLogo1 a[title*="Punch Software"] {
+    vertical-align: top;
+    float: left;
+    margin-left: 15px;
+}
+
+#B2C_Header #headerSearch {
+    vertical-align: top;
+    position: relative;
+    top: auto;
+    left: auto;
+    margin: 25px 20px 0 0;
+    width: auto;
+    height: auto;
+    text-align: right;
+    background-image: none;
+    background-color: #ffffff;
+    float: right;
+}
+
+#B2C_Header #headerSearch .searchBox {
+    margin: 0;
+    vertical-align: top;
+    font-size: 10px;
+    line-height: 16px;
+    padding: 8px 6px 4px 12px;
+    border: 1px solid #d7d7d7;
+    box-shadow: 2px 3px 3px 0 rgba(0, 0, 0, 0.2) inset;
+    font-family: 'Montserrat', sans-serif;
+    width: 130px;
+}
+#B2C_Header #headerSearch .searchBox::-webkit-input-placeholder {
+  color: #c6c6c6;
+  text-transform: uppercase;
+}
+
+#B2C_Header #headerSearch .searchBox::-moz-placeholder {
+  color: #c6c6c6;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+#B2C_Header #headerSearch .searchBox:-ms-input-placeholder {
+  color: #c6c6c6;
+  text-transform: uppercase;
+}
+
+#B2C_Header #headerSearch .searchBox:-moz-placeholder {
+  color: #c6c6c6;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+#B2C_Header #headerSearch #btnSearch {
+    margin: 0;
+    vertical-align: top;
+    background-image: url(/images/icons/search-icon-030117.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #353535;
+    height: 30px;
+    width: 30px;
+}
+
+.boldChatSpace {
+    margin: 25px 0 0 0;
+    width: 134px;
+    height: 30px;
+    vertical-align: top;
+}
+
+#heading_links {
+    position: relative;
+    color: #ffffff;
+    background: #353535;
+    margin: 0;
+    padding: 5px 0;
+    width: 100%;
+    top: auto;
+    left: auto;
+    text-align: right;
+    background-image: none;
+    height: auto;
+}
+
+#heading_links img[alt*="Order By Phone"] {
+    float: left;
+    padding: 0 10px 0 10px;
+    width: 334px;
+    height: auto;
+    max-width: 100%;
+}
+
+#B2C_Header .shoppingCart {
+    height: auto;
+    width: auto;
+    min-width: 30px;
+    min-height: 27px;
+    vertical-align: top;
+    margin: 0 5px;
+    line-height: 14px;
+    color: #ffffff;
+    background-image: url(/images/punchsoftware/shoppingcart.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    text-align: left;
+}
+
+#B2C_Header .shoppingCartCountIcon, #B2C_Header .shoppingCart .shoppingCartSubTotal, #B2C_Header .shoppingCart .shoppingCartCountLabel, #B2C_Header .shoppingCart .shoppingCartSubTotalLabel, #B2C_Header .ShoppingCartEmptyText {
+    display: none;
+}
+
+#B2C_Header .shoppingCart .shoppingCartCheckoutLink {
+    width: 100%;
+}
+
+#B2C_Header .shoppingCart .shoppingCartCheckoutLink a {
+    font-size: 0;
+    line-height: 0;
+    width: 100%;
+    height: auto;
+    padding: 0 0 3px 0;
+    background-image: none;
+}
+
+#B2C_Header .shoppingCart .shoppingCartItemCount {
+    font-size: 11px;
+    line-height: 14px;
+    font-weight: bold;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    padding: 2px 0;
+    width: 20px;
+    border: 1px solid #068C02;
+    background-color: #0CB36D;
+    margin: 0;
+    color: #ffffff;
+    text-align: center;
+}
+
+#B2C_Header .login {
+    height: auto;
+    width: auto;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0 5px;
+    vertical-align: top;
+}
+
+#B2C_Header .login .loginText, #B2C_Header .login .myAccountLink, #B2C_Header .login .loginText a, #B2C_Header .login .myAccountLink a {
+    height: auto;
+    width: auto;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+#B2C_Header .login .loginText a, #B2C_Header .login .myAccountLink a {
+    padding: 3px;
+    margin: 3px 6px 0 6px;
+}
+
+.horizNav_email {
+    background-color: #5a5a5a;
+    overflow: hidden;
+}
+
+#B2C_Header #horizNav, #B2C_Header #top_nav {
+    margin: 0;
+    width: auto;
+    height: auto;
+    background-image: none;
+}
+
+#B2C_Header #horizNav {
+    position: relative;
+    border: none;
+    vertical-align: top;
+}
+
+* + html #B2C_Header #horizNav {
+    float: left;
+}
+
+#B2C_Header #top_nav {
+    position: relative;
+    z-index: 20;
+}
+
+#B2C_Header #top_nav li, #B2C_Header #top_nav li a.active, #B2C_Header #top_nav li a:hover {
+    background-image: none;
+}
+
+#B2C_Header #top_nav li, #top_nav a {
+    height: auto;
+    width: auto;
+}
+
+#B2C_Header #top_nav li a.active span, #B2C_Header #top_nav li a:hover span {
+    background-color: #ee3124;
+}
+
+#B2C_Header #top_nav a {
+    margin: 0;
+}
+
+#B2C_Header #top_nav span {
+    display: block;
+    font-size: 16px;
+    line-height: 16px;
+    color: #fff;
+    background-color: #5a5a5a;
+    padding: 11px 17px 8px 17px;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+#B2C_Header #horizNav .mobile {
+    display: none;
+    position: absolute;
+    z-index: 25;
+    top: 0;
+    left: auto;
+    right: 0;
+    width: 30px;
+    height: 28px;
+    background-color: #525252;
+    cursor: pointer;
+}
+
+.email_sign_up {
+    font-size: 10px;
+    line-height: 11px;
+    float: right;
+    margin: 0;
+    vertical-align: top;
+}
+
+.email_sign_up a {
+    display: block;
+    padding: 7px 15px 6px 65px;
+    background-color: #233b49;
+    background-image: url(/images/punchsoftware/block-subscribe.jpg);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.email_sign_up a:hover {
+    background-color: #3D3D3D;
+}
+
+#McAfeeSecureLink {
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    margin-right: 8px;
+    height: 27px;
+    overflow: hidden;
+}
+
+#B2C_Seperator {
+    width: 100%;
+    padding: 5px 10px;
+    font-size: 0;
+    line-height: 0;
+    background: #fff;
+}
+
+* + html #B2C_Seperator {
+    width: 970px;
+}
+
+#B2C_Seperator .breadcrumb {
+    width: 100%;
+    padding: 0;
+    height: auto;
+    font-size: 0;
+    line-height: 0;
+    margin: 0;
+    border: 1px solid #e1e1e1;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+#B2C_Seperator .breadcrumb .breadcrumb_nav {
+    padding: 0;
+    font-size: 11px;
+    line-height: 13px;
+}
+
+#B2C_Seperator .breadcrumb .breadcrumb_nav a {
+    position: relative;
+    padding: 7px 15px;
+    border-right: 1px solid #e1e1e1;
+    background: #dbdbdb;
+}
+
+#B2C_Seperator .breadcrumb .breadcrumb_current, #B2C_Seperator .breadcrumb .breadcrumb_current_nav {
+    padding: 7px 15px;
+    font-size: 11px;
+    line-height: 13px;
+    background: #ffffff;
+}
+
+#B2C_Seperator .breadcrumb .breadcrumb_arrow {
+    display: none;
+}
+
+#seperatorHTMLContent1 {
+    width: 100%;
+}
+
+#B2C_PageContent, #B2C_Footer {
+    font-size: 12px;
+    line-height: 14px;
+}
