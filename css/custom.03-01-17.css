@@ -73,6 +73,7 @@ img#billinginfo_gif, img#shippinginfo_gif, img#accountinfo_gif, img#skipreg_gif,
 #sidebarLeftCategories {
     width: 100%;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #B2C_SidebarLeft #sidebarLeftCategories #category_top {
@@ -80,26 +81,17 @@ img#billinginfo_gif, img#shippinginfo_gif, img#accountinfo_gif, img#skipreg_gif,
     margin: 0;
     width: auto;
     padding: 9px 0 9px 15px;
-    font-size: 18px;
-    line-height: 18px;
-    font-weight: bold;
+    font-size: 15px;
+    line-height: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
     position: relative;
-    background: -webkit-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -o-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -moz-linear-gradient(#2269b5 5%, #093782 100%);
-    background: linear-gradient(#2269b5 5%, #093782 100%);
-    text-shadow: 1px 1px 0px #091c2e;
-    -moz-box-shadow: inset 0px 1px 0px 0px #70a8eb;
-    -webkit-box-shadow: inset 0px 1px 0px 0px #70a8eb;
-    box-shadow: inset 0px 1px 0px 0px #70a8eb;
-    background-color: #2269b5;
-    border-top: 1px solid #1352ab;
-    border-bottom: 1px solid #ffffff;
+    background-color: #d6d5c4;
 }
 
 #B2C_SidebarLeft #sidebarLeftCategories #category_top:before {
     content: 'Categories';
-    color: #ffffff;
+    color: #233b49;
 }
 
 ul.category {
@@ -111,13 +103,12 @@ ul.category {
 
 ul.category li.category_list {
     padding: 0 7px;
-    border-bottom: 1px solid #ffffff;
 }
 
 ul.category li.category_list a {
     padding: 4px 0 4px 8px;
     background-image: none;
-    color: #436f07;
+    color: #233b49;
     width: 100%;
     display: block;
     height: auto;
@@ -126,6 +117,7 @@ ul.category li.category_list a {
     font-size: 13px;
     line-height: 15px;
     text-transform: none;
+    font-weight: 500;
 }
 
 ul.category li.category_list a:hover {
