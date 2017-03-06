@@ -122,7 +122,7 @@ ul.category li.category_list a {
 
 ul.category li.category_list a:hover {
     color: #ffffff;
-    background-color: #6eac1b;
+    background-color: #ee3124;
 }
 
 #B2C_SidebarLeft #sidebarLeftCategories #category_bottom {
@@ -135,6 +135,7 @@ ul.category li.category_list a:hover {
 #sidebarLeftBestSellers {
     width: 100%;
     padding: 0;
+    display: none;
 }
 
 ul.product_listing {
@@ -151,10 +152,6 @@ ul.product_listing {
     line-height: 18px;
     font-weight: bold;
     position: relative;
-    background: -webkit-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -o-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -moz-linear-gradient(#2269b5 5%, #093782 100%);
-    background: linear-gradient(#2269b5 5%, #093782 100%);
     text-shadow: 1px 1px 0px #091c2e;
     -moz-box-shadow: inset 0px 1px 0px 0px #70a8eb;
     -webkit-box-shadow: inset 0px 1px 0px 0px #70a8eb;
@@ -197,6 +194,7 @@ ul.product_listing li.product_listing_item a:hover {
 #sidebarLeftVerticalProductGrid {
     width: 100%;
     padding-bottom: 0;
+    display: none;
 }
 
 #sidebarLeftVerticalProductGrid #product_listing_top {
@@ -209,10 +207,6 @@ ul.product_listing li.product_listing_item a:hover {
     line-height: 18px;
     font-weight: bold;
     position: relative;
-    background: -webkit-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -o-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -moz-linear-gradient(#2269b5 5%, #093782 100%);
-    background: linear-gradient(#2269b5 5%, #093782 100%);
     text-shadow: 1px 1px 0px #091c2e;
     -moz-box-shadow: inset 0px 1px 0px 0px #70a8eb;
     -webkit-box-shadow: inset 0px 1px 0px 0px #70a8eb;
@@ -236,7 +230,7 @@ ul.product_listing li.product_listing_item a:hover {
 #B2C_PageContent {
     font-size: 0;
     line-height: 0;
-    background-color: #e2e2e2!important;
+    background-color: #f7f6f1;
     margin: 0;
     position: relative;
     width: 100%;
@@ -529,10 +523,6 @@ img[alt="Registration"] {
     line-height: 16px;
     font-weight: bold;
     position: relative;
-    background: -webkit-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -o-linear-gradient(#2269b5 5%, #093782 100%);
-    background: -moz-linear-gradient(#2269b5 5%, #093782 100%);
-    background: linear-gradient(#2269b5 5%, #093782 100%);
     text-shadow: 1px 1px 0px #091c2e;
     -moz-box-shadow: inset 0px 1px 0px 0px #70a8eb;
     -webkit-box-shadow: inset 0px 1px 0px 0px #70a8eb;
