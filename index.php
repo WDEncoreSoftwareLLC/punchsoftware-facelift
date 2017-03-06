@@ -37,7 +37,7 @@
 					    else window.attachEvent('onload', bcLoad);
                     </script>
                 </div>
-				<div id="headerSearch">
+			    <div id="headerSearch">
 					<form name="topsearchform" method="get" action="search.aspx">
 						<fieldset>
 							<div>
@@ -220,304 +220,227 @@
                         <div id="product_listing_bottom"></div>
                     </div>
                 </div>    
-            <div id="sidebarLeftLogo1"></div>  
-        </div>
-        <div id="B2C_Content">
-            <!-- CONTENTS START -->
-            <div id="home_page">
-                <div id="B2C_Category_HTMLContent1">
-                    <img src="/images/punchsoftware/banner_promo/Punch-HomeVideoBanner_620x76.jpg" alt="Design your dream home inside an out." width="620" height="76" border="0">
-                    <br>
-                    <iframe width="620" height="348" style="position:relative; left:-11px;margin-bottom:30px;" src="https://www.youtube.com/embed/IWRcAxT0RkQ" frameborder="0" allowfullscreen=""></iframe>
-                </div>
-                
-                <?php include('products.php'); ?>
-
-                <div style="clear:both;"></div>
-                <div id="adblock2"></div>                 
-                <!-- CONTENTS END -->
+                <div id="sidebarLeftLogo1"></div>  
             </div>
-            <div id="B2C_SidebarRight">
-                
-                
-                
-                <div id="sidebarRightBestSellers">
-                    <div id="SidebarRightBestSellers_pnlProductListing">
-	
-<div id="product_listing_top"></div>
-
-        <ul class="product_listing">
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl01_lnkProductName" href="p-145-punch-home-landscape-design-essentials-v19.aspx">Punch! Home &amp; Landscape Design Essentials v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl02_lnkProductName" href="p-147-punch-home-landscape-design-professional-v19.aspx">Punch! Home &amp; Landscape Design Professional v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl03_lnkProductName" href="p-138-punch-landscape-design-for-mac-v19.aspx">Punch! Landscape Design for Mac v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl04_lnkProductName" href="p-148-punch-home-landscape-design-architectural-series-v19.aspx">Punch! Home &amp; Landscape Design Architectural Series v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl05_lnkProductName" href="p-146-punch-home-landscape-design-premium-v19.aspx">Punch! Home &amp; Landscape Design Premium v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl06_lnkProductName" href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx">Punch! Home Design Studio Complete for Mac v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl07_lnkProductName" href="p-142-punch-home-design-studio-for-mac-v19.aspx">Punch! Home Design Studio for Mac v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl08_lnkProductName" href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx">Punch! Home Design Studio Essentials for Mac v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightBestSellers_rptProductListing_ctl09_lnkProductName" href="p-143-punch-landscape-deck-patio-v19.aspx">Punch! Landscape, Deck &amp; Patio v19</a>
-            </div>
-            <div class="product_listing_description">
-               
-            </div>
-        </li>
-    
-        </ul>
-    
- <div id="product_listing_bottom"></div>
- 
-</div>
-                </div>
-                
-                
-                
-                
-                <div id="sidebarRightProductListing">
-                    <div id="SidebarRightProductListing_pnlProductListing">
-	
-<div id="product_listing_top"></div>
-
-        <ul class="product_listing">
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                <a href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamb.aspx"><img id="ProductPic149" name="ProductPic149" src="images/Product/micro/4345.jpg"></a>
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightProductListing_rptProductListing_ctl01_lnkProductName" href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamburgo.aspx">Learning Punch! Software: Training, Tools &amp; Tutorials for V19 - Windows Version - by Patricia Gamburgo</a>
-            </div>
-            <div class="product_listing_description">
-               Take your home, landscap...
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                <a href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx"><img id="ProductPic150" name="ProductPic150" src="images/Product/micro/4346.jpg"></a>
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightProductListing_rptProductListing_ctl02_lnkProductName" href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx">Learning Punch Software: Training, Tools &amp; Tutorials for V19 Mac Version by Patricia Gamburgo</a>
-            </div>
-            <div class="product_listing_description">
-               Take your home, landscap...
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                <a href="p-147-punch-home-landscape-design-professional-v19.aspx"><img id="ProductPic147" name="ProductPic147" src="images/Product/micro/4332.jpg"></a>
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightProductListing_rptProductListing_ctl03_lnkProductName" href="p-147-punch-home-landscape-design-professional-v19.aspx">Punch! Home &amp; Landscape Design Professional v19</a>
-            </div>
-            <div class="product_listing_description">
-               Design beautiful spaces ...
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                <a href="p-145-punch-home-landscape-design-essentials-v19.aspx"><img id="ProductPic145" name="ProductPic145" src="images/Product/micro/4330.jpg"></a>
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightProductListing_rptProductListing_ctl04_lnkProductName" href="p-145-punch-home-landscape-design-essentials-v19.aspx">Punch! Home &amp; Landscape Design Essentials v19</a>
-            </div>
-            <div class="product_listing_description">
-               Design and update your h...
-            </div>
-        </li>
-    
-        <li class="product_listing_item">
-            <div class="product_listing_image">
-                <a href="p-146-punch-home-landscape-design-premium-v19.aspx"><img id="ProductPic146" name="ProductPic146" src="images/Product/micro/4331.jpg"></a>
-            </div>
-            <div class="product_listing_name">
-                <a id="SidebarRightProductListing_rptProductListing_ctl05_lnkProductName" href="p-146-punch-home-landscape-design-premium-v19.aspx">Punch! Home &amp; Landscape Design Premium v19</a>
-            </div>
-            <div class="product_listing_description">
-               Planning your home desig...
-            </div>
-        </li>
-    
-        </ul>
-    
- <div id="product_listing_bottom"></div>
- 
-</div>
-                </div>
-                
-                <div id="sidebarRightHTMLContent1">
+            <div id="B2C_Content">
+                <!-- CONTENTS START -->
+                <div id="home_page">
+                    <div id="B2C_Category_HTMLContent1">
+                        <img src="/images/punchsoftware/banner_promo/Punch-HomeVideoBanner_620x76.jpg" alt="Design your dream home inside an out." width="620" height="76" border="0">
+                        <br>
+                        <iframe width="620" height="348" style="position:relative; left:-11px;margin-bottom:30px;" src="https://www.youtube.com/embed/IWRcAxT0RkQ" frameborder="0" allowfullscreen=""></iframe>
+                    </div>
                     
+                    <?php include('products.php'); ?>
+
+                    <div style="clear:both;"></div>
+                    <div id="adblock2"></div>                 
+                    <!-- CONTENTS END -->
                 </div>
-                <div id="sidebarRightHTMLContent2">
-                    <a href="http://support.encore.com/customerservice/refunds.aspx" title="Click Here for our Easy Returns" target="_blank"><img alt="Punch Software| Shop with Confidence Guarantee" src="/images/punchsoftware/banner_promo/PU_Banner_Guarantee.jpg" style="margin-bottom:10px;" width="160" border="0" height="271"></a> 
-
-<img src="/images/punchsoftware/banner_promo/pu_seal_123014.png" alt="#1 Home Design Software since 2000." border="0" width="170" height="160" style="margin:0 0 10px 0;">
-
-<a href="c-33-which-mac-version-is-right-for-me.aspx"><img src="/images/punchsoftware/banner_promo/Punchv19VerticalBanner.jpg" alt="Punch! Version 19 Available! Buy Now!" border="0" height="250" width="160" style="margin-bottom:10px;"></a>
-
-<a href="http://forums.punchsoftware.com/?@780.RR84awu3yjz@"><img src="/images/punchsoftware/banner_promo/Forum-Banner.jpg" alt="Click Here for Online Forums." border="0" height="250" width="160" style="margin-bottom:10px;"></a>
-
-<a href="http://www.punchsoftware.com/c-43-tutorials.aspx"><img src="/images/punchsoftware/banner_promo/VideoTutorial-Banner.jpg" alt="Click here for video tutorials." border="0" height="200" width="160" style="margin-bottom:10px;"></a>
+                <div id="B2C_SidebarRight">
+                    <div id="sidebarRightBestSellers">
+                        <div id="SidebarRightBestSellers_pnlProductListing">
+                            <div id="product_listing_top"></div>
+                            <ul class="product_listing">
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl01_lnkProductName" href="p-145-punch-home-landscape-design-essentials-v19.aspx">Punch! Home &amp; Landscape Design Essentials v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl02_lnkProductName" href="p-147-punch-home-landscape-design-professional-v19.aspx">Punch! Home &amp; Landscape Design Professional v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl03_lnkProductName" href="p-138-punch-landscape-design-for-mac-v19.aspx">Punch! Landscape Design for Mac v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl04_lnkProductName" href="p-148-punch-home-landscape-design-architectural-series-v19.aspx">Punch! Home &amp; Landscape Design Architectural Series v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl05_lnkProductName" href="p-146-punch-home-landscape-design-premium-v19.aspx">Punch! Home &amp; Landscape Design Premium v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl06_lnkProductName" href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx">Punch! Home Design Studio Complete for Mac v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl07_lnkProductName" href="p-142-punch-home-design-studio-for-mac-v19.aspx">Punch! Home Design Studio for Mac v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl08_lnkProductName" href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx">Punch! Home Design Studio Essentials for Mac v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image"></div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightBestSellers_rptProductListing_ctl09_lnkProductName" href="p-143-punch-landscape-deck-patio-v19.aspx">Punch! Landscape, Deck &amp; Patio v19</a>
+                                    </div>
+                                    <div class="product_listing_description"></div>
+                                </li>
+                            </ul>
+                            <div id="product_listing_bottom"></div>
+                        </div>
+                    </div>
+                    <div id="sidebarRightProductListing">
+                        <div id="SidebarRightProductListing_pnlProductListing">
+                            <div id="product_listing_top"></div>
+                            <ul class="product_listing">
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image">
+                                        <a href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamb.aspx"><img id="ProductPic149" name="ProductPic149" src="images/Product/micro/4345.jpg"></a>
+                                    </div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightProductListing_rptProductListing_ctl01_lnkProductName" href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamburgo.aspx">Learning Punch! Software: Training, Tools &amp; Tutorials for V19 - Windows Version - by Patricia Gamburgo</a>
+                                    </div>
+                                    <div class="product_listing_description">
+                                        Take your home, landscap...
+                                    </div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image">
+                                        <a href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx"><img id="ProductPic150" name="ProductPic150" src="images/Product/micro/4346.jpg"></a>
+                                    </div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightProductListing_rptProductListing_ctl02_lnkProductName" href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx">Learning Punch Software: Training, Tools &amp; Tutorials for V19 Mac Version by Patricia Gamburgo</a>
+                                    </div>
+                                    <div class="product_listing_description">
+                                        Take your home, landscap...
+                                    </div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image">
+                                        <a href="p-147-punch-home-landscape-design-professional-v19.aspx"><img id="ProductPic147" name="ProductPic147" src="images/Product/micro/4332.jpg"></a>
+                                    </div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightProductListing_rptProductListing_ctl03_lnkProductName" href="p-147-punch-home-landscape-design-professional-v19.aspx">Punch! Home &amp; Landscape Design Professional v19</a>
+                                    </div>
+                                    <div class="product_listing_description">
+                                        Design beautiful spaces ...
+                                    </div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image">
+                                        <a href="p-145-punch-home-landscape-design-essentials-v19.aspx"><img id="ProductPic145" name="ProductPic145" src="images/Product/micro/4330.jpg"></a>
+                                    </div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightProductListing_rptProductListing_ctl04_lnkProductName" href="p-145-punch-home-landscape-design-essentials-v19.aspx">Punch! Home &amp; Landscape Design Essentials v19</a>
+                                    </div>
+                                    <div class="product_listing_description">
+                                        Design and update your h...
+                                    </div>
+                                </li>
+                                <li class="product_listing_item">
+                                    <div class="product_listing_image">
+                                        <a href="p-146-punch-home-landscape-design-premium-v19.aspx"><img id="ProductPic146" name="ProductPic146" src="images/Product/micro/4331.jpg"></a>
+                                    </div>
+                                    <div class="product_listing_name">
+                                        <a id="SidebarRightProductListing_rptProductListing_ctl05_lnkProductName" href="p-146-punch-home-landscape-design-premium-v19.aspx">Punch! Home &amp; Landscape Design Premium v19</a>
+                                    </div>
+                                    <div class="product_listing_description">
+                                        Planning your home desig...
+                                    </div>
+                                </li>
+                            </ul>
+                            <div id="product_listing_bottom"></div>
+                        </div>
+                    </div>
+                    <div id="sidebarRightHTMLContent1"></div>
+                    <div id="sidebarRightHTMLContent2">
+                        <a href="http://support.encore.com/customerservice/refunds.aspx" title="Click Here for our Easy Returns" target="_blank"><img alt="Punch Software| Shop with Confidence Guarantee" src="/images/punchsoftware/banner_promo/PU_Banner_Guarantee.jpg" style="margin-bottom:10px;" width="160" border="0" height="271"></a>
+                        <img src="/images/punchsoftware/banner_promo/pu_seal_123014.png" alt="#1 Home Design Software since 2000." border="0" width="170" height="160" style="margin:0 0 10px 0;">
+                        <a href="c-33-which-mac-version-is-right-for-me.aspx"><img src="/images/punchsoftware/banner_promo/Punchv19VerticalBanner.jpg" alt="Punch! Version 19 Available! Buy Now!" border="0" height="250" width="160" style="margin-bottom:10px;"></a>
+                        <a href="http://forums.punchsoftware.com/?@780.RR84awu3yjz@"><img src="/images/punchsoftware/banner_promo/Forum-Banner.jpg" alt="Click Here for Online Forums." border="0" height="250" width="160" style="margin-bottom:10px;"></a>
+                        <a href="http://www.punchsoftware.com/c-43-tutorials.aspx"><img src="/images/punchsoftware/banner_promo/VideoTutorial-Banner.jpg" alt="Click here for video tutorials." border="0" height="200" width="160" style="margin-bottom:10px;"></a>
+                    </div>
                 </div>
             </div>
-            
-        </div>
-        <div id="B2C_Footer">
-            <div id="footerMenu">
-                <div class="center to_top">
-<p><a href="#">Return to Top</a></p>
-</div>
-<div class="footer_hours">
-<p>Call <strong>800-395-0277</strong> to place an order<br>
-Canadian customers call 763-450-2466<br>
-8am - 5pm (CST)</p>
-</div>
-<div id="footer_support_m" class="footer_info">
-<p><strong class="footer_link_heading">Support</strong></p>
-<div>
-<p><a href="http://support.encore.com/technicalsupport/" target="_blank">Technical Support</a></p>
-<p><a href="http://support.encore.com/ordersupport/" target="_blank">Order Support</a></p>
-<p><a href="c-43-tutorials.aspx">Training Videos</a></p>
-<p><a href="http://forums.punchsoftware.com/">Punch! Forums</a></p>
-</div>
-</div>
-<div id="footer_legal_m" class="footer_info">
-<p><strong class="footer_link_heading">Legal</strong></p>
-<div>
-<p><a href="c-17-privacy-policy.aspx">Privacy Policy</a></p>
-<p><a href="c-24-terms-and-conditions.aspx">Terms &amp; Conditions</a></p>
-</div>
-</div>
-<div id="footer_registration_m" class="footer_info">
-<p><strong class="footer_link_heading">Registration</strong></p>
-<div>
-<p><a href="c-20-registration.aspx">Product Registration</a></p>
-<p><a href="c-6-affiliates.aspx">Affiliate Signup</a></p>
-</div>
-</div>
-<div id="footer_corporate_info_m" class="footer_info">
-<p><strong class="footer_link_heading">Corporate Information</strong></p>
-<div>
-<p><a href="c-3-about-us.aspx">About Punch Software</a></p>
-<p><a href="c-9-contact-us.aspx">Contact Us</a></p>
-<p><a href="c-21-retail-partners.aspx">Retail Partners</a></p>
-<p><a href="c-44-international-partners.aspx">International Versions/Partners</a></p>
-<p><a href="sitemap.aspx">Site Map</a></p>
-</div>
-</div>
-                
-            </div>
-            <div id="footerHTMLContent1">
-                <div id="footer_copyrighttext">©
-<script>document.write(new Date().getFullYear())</script>
-WD Encore Software, LLC, a subsidiary of WD Navarre Holdings, LLC and its licensors. All Rights Reserved.</div>
-<div id="footer_ssl_site_seal"><!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
-<script type="text/javascript" src="https://seal.geotrust.com/getgeotrustsslseal?host_name=www.punchsoftware.com&amp;size=S&amp;lang=en"></script>
-<a href="http://www.geotrust.com/ssl/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;"></a>
-<!-- end  GeoTrust Smart Icon tag --></div>
-<div style="CLEAR: both"></div>
-
-                
+            <div id="B2C_Footer">
+                <div id="footerMenu">
+                    <div class="center to_top">
+                        <p><a href="#">Return to Top</a></p>
+                    </div>
+                    <div class="footer_hours">
+                        <p>Call <strong>800-395-0277</strong> to place an order <br>
+                        Canadian customers call 763-450-2466 <br>
+                        8am - 5pm (CST)</p>
+                    </div>
+                    <div id="footer_support_m" class="footer_info">
+                        <p><strong class="footer_link_heading">Support</strong></p>
+                        <div>
+                            <p><a href="http://support.encore.com/technicalsupport/" target="_blank">Technical Support</a></p>
+                            <p><a href="http://support.encore.com/ordersupport/" target="_blank">Order Support</a></p>
+                            <p><a href="c-43-tutorials.aspx">Training Videos</a></p>
+                            <p><a href="http://forums.punchsoftware.com/">Punch! Forums</a></p>
+                        </div>
+                    </div>
+                    <div id="footer_legal_m" class="footer_info">
+                        <p><strong class="footer_link_heading">Legal</strong></p>
+                        <div>
+                            <p><a href="c-17-privacy-policy.aspx">Privacy Policy</a></p>
+                            <p><a href="c-24-terms-and-conditions.aspx">Terms &amp; Conditions</a></p>
+                        </div>
+                    </div>
+                    <div id="footer_registration_m" class="footer_info">
+                        <p><strong class="footer_link_heading">Registration</strong></p>
+                        <div>
+                            <p><a href="c-20-registration.aspx">Product Registration</a></p>
+                            <p><a href="c-6-affiliates.aspx">Affiliate Signup</a></p>
+                        </div>
+                    </div>
+                    <div id="footer_corporate_info_m" class="footer_info">
+                        <p><strong class="footer_link_heading">Corporate Information</strong></p>
+                        <div>
+                            <p><a href="c-3-about-us.aspx">About Punch Software</a></p>
+                            <p><a href="c-9-contact-us.aspx">Contact Us</a></p>
+                            <p><a href="c-21-retail-partners.aspx">Retail Partners</a></p>
+                            <p><a href="c-44-international-partners.aspx">International Versions/Partners</a></p>
+                            <p><a href="sitemap.aspx">Site Map</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div id="footerHTMLContent1">
+                    <div id="footer_copyrighttext">© <script>document.write(new Date().getFullYear())</script> WD Encore Software, LLC, a subsidiary of WD Navarre Holdings, LLC and its licensors. All Rights Reserved.</div>
+                    <div id="footer_ssl_site_seal">
+                        <!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
+                        <script type="text/javascript" src="https://seal.geotrust.com/getgeotrustsslseal?host_name=www.punchsoftware.com&amp;size=S&amp;lang=en"></script>
+                        <a href="http://www.geotrust.com/ssl/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;"></a>
+                        <!-- end  GeoTrust Smart Icon tag -->
+                    </div>
+                    <div style="CLEAR: both"></div>
+                </div>
             </div>
         </div>
+        <!-- wrapper -->
+        
     </div>
-    <!-- wrapper -->
-    
 
 </body>
 </html>
