@@ -1,0 +1,28 @@
+.to-top {
+    width: 16px;
+    height: 16px;
+    padding: 6px;
+    position: fixed;
+    top: 50%;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    display: inline-block;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.8);
+    border: 2px solid #fff;
+    background-color: #00012D;
+    z-index: 10;
+    border-radius: 7px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: opacity 0.25s ease-in-out 0s, top 0s ease-in-out 0.25s, visibility 0s ease-in-out 0.25s;
+    -moz-transition: opacity 0.25s ease-in-out 0s, top 0s ease-in-out 0.25s, visibility 0s ease-in-out 0.25s;
+    transition: opacity 0.25s ease-in-out 0s, top 0s ease-in-out 0.25s, visibility 0s ease-in-out 0.25s;
+}
+.to-top.scrolled {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.25s ease-in-out 0s, top 0s ease-in-out 0s, visibility 0s ease-in-out 0s;
+    -moz-transition: opacity 0.25s ease-in-out 0s, top 0s ease-in-out 0s, visibility 0s ease-in-out 0s;
+    transition: opacity 0.25s ease-in-out 0s, top 0s ease-in-out 0s, visibility 0s ease-in-out 0s;
+}

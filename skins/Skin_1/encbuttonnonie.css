@@ -1,0 +1,371 @@
+/* Colors */
+.en-btn, .en-btn.cgry {
+  background: -webkit-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: -o-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: -moz-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  text-shadow:1px 1px 0px #474747;
+}
+.en-btn:hover, .en-btn.cgry:hover {
+  background: -webkit-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: -o-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: -moz-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+}
+.en-btn.iconlock, .en-btn.cgry.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  padding-left: 40px;
+}
+.en-btn.iconlock:hover, .en-btn.cgry.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+}
+.en-btn.tdk, .en-btn.cgry.tdk {
+  text-shadow:1px 1px 0px #C2C2C2;
+}
+.en-btn.iconlock.tdk, .en-btn.cgry.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, -webkit-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, -o-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, -moz-linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, linear-gradient(#c2c2c2 5%, #8c8c8c 100%);
+}
+.en-btn.iconlock.tdk:hover, .en-btn.cgry.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, -webkit-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, -o-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, -moz-linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+  background: url(/images/btn_securecheckout_cgry.png) no-repeat left center, linear-gradient(#8c8c8c 5%, #c2c2c2 100%);
+}
+
+.en-btn.cred {
+  background: -webkit-linear-gradient(#f24537 5%, #c42020 100%);
+  background: -o-linear-gradient(#f24537 5%, #c42020 100%);
+  background: -moz-linear-gradient(#f24537 5%, #c42020 100%);
+  background: linear-gradient(#f24537 5%, #c42020 100%);
+  text-shadow:1px 1px 0px #810e05;
+}
+.en-btn.cred:hover {
+  background: -webkit-linear-gradient(#c42020 5%, #f24537 100%);
+  background: -o-linear-gradient(#c42020 5%, #f24537 100%);
+  background: -moz-linear-gradient(#c42020 5%, #f24537 100%);
+  background: linear-gradient(#c42020 5%, #f24537 100%);
+}
+.en-btn.cred.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#f24537 5%, #c42020 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#f24537 5%, #c42020 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#f24537 5%, #c42020 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#f24537 5%, #c42020 100%);
+}
+.en-btn.cred.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#c42020 5%, #f24537 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#c42020 5%, #f24537 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#c42020 5%, #f24537 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#c42020 5%, #f24537 100%);
+}
+.en-btn.cred.tdk {
+  text-shadow:1px 1px 0px #f2665c;
+}
+.en-btn.cred.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, -webkit-linear-gradient(#f24537 5%, #c42020 100%);
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, -o-linear-gradient(#f24537 5%, #c42020 100%);
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, -moz-linear-gradient(#f24537 5%, #c42020 100%);
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, linear-gradient(#f24537 5%, #c42020 100%);
+}
+.en-btn.cred.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, -webkit-linear-gradient(#c42020 5%, #f24537 100%);
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, -o-linear-gradient(#c42020 5%, #f24537 100%);
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, -moz-linear-gradient(#c42020 5%, #f24537 100%);
+  background: url(/images/btn_securecheckout_cred.png) no-repeat left center, linear-gradient(#c42020 5%, #f24537 100%);
+}
+
+.en-btn.cgrn {
+  background: -webkit-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: -o-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: -moz-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: linear-gradient(#77d42a 5%, #5cb811 100%);
+  text-shadow:1px 1px 0px #689324;
+}
+.en-btn.cgrn:hover {
+  background: -webkit-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: -o-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: -moz-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: linear-gradient(#5cb811 5%, #77d42a 100%);
+}
+.en-btn.cgrn.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#77d42a 5%, #5cb811 100%);
+}
+.en-btn.cgrn.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#5cb811 5%, #77d42a 100%);
+}
+.en-btn.cgrn.tdk {
+  text-shadow:1px 1px 0px #aade7c;
+}
+.en-btn.cgrn.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, -webkit-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, -o-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, -moz-linear-gradient(#77d42a 5%, #5cb811 100%);
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, linear-gradient(#77d42a 5%, #5cb811 100%);
+}
+.en-btn.cgrn.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, -webkit-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, -o-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, -moz-linear-gradient(#5cb811 5%, #77d42a 100%);
+  background: url(/images/btn_securecheckout_cgrn.png) no-repeat left center, linear-gradient(#5cb811 5%, #77d42a 100%);
+}
+
+#product_top_right .AddToCartButton, .en-btn.cdgr {
+  background: -webkit-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: -o-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: -moz-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: linear-gradient(#4a8516 5%, #264d06 100%);
+  text-shadow:1px 1px 0px #1A3207;
+}
+#product_top_right .AddToCartButton:hover, .en-btn.cdgr:hover {
+  background: -webkit-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: -o-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: -moz-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: linear-gradient(#264d06 5%, #4a8516 100%);
+}
+.en-btn.cdgr.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#4a8516 5%, #264d06 100%);
+}
+.en-btn.cdgr.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#264d06 5%, #4a8516 100%);
+}
+.en-btn.cdgr.tdk {
+  text-shadow:1px 1px 0px #669937;
+}
+.en-btn.cdgr.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, -webkit-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, -o-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, -moz-linear-gradient(#4a8516 5%, #264d06 100%);
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, linear-gradient(#4a8516 5%, #264d06 100%);
+}
+.en-btn.cdgr.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, -webkit-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, -o-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, -moz-linear-gradient(#264d06 5%, #4a8516 100%);
+  background: url(/images/btn_securecheckout_cdgr.png) no-repeat left center, linear-gradient(#264d06 5%, #4a8516 100%);
+}
+
+.en-btn.cblu {
+  background: -webkit-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: -o-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: -moz-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: linear-gradient(#3b9dff 5%, #1975d1 100%);
+  text-shadow:1px 1px 0px #0f3963;
+}
+.en-btn.cblu:hover {
+  background: -webkit-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: -o-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: -moz-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: linear-gradient(#1975d1 5%, #3b9dff 100%);
+}
+.en-btn.cblu.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#3b9dff 5%, #1975d1 100%);
+}
+.en-btn.cblu.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#1975d1 5%, #3b9dff 100%);
+}
+.en-btn.cblu.tdk {
+  text-shadow:1px 1px 0px #7cabde;
+}
+.en-btn.cblu.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, -webkit-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, -o-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, -moz-linear-gradient(#3b9dff 5%, #1975d1 100%);
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, linear-gradient(#3b9dff 5%, #1975d1 100%);
+}
+.en-btn.cblu.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, -webkit-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, -o-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, -moz-linear-gradient(#1975d1 5%, #3b9dff 100%);
+  background: url(/images/btn_securecheckout_cblu.png) no-repeat left center, linear-gradient(#1975d1 5%, #3b9dff 100%);
+}
+
+.en-btn.cdbl {
+  background: -webkit-linear-gradient(#2269b5 5%, #093782 100%);
+  background: -o-linear-gradient(#2269b5 5%, #093782 100%);
+  background: -moz-linear-gradient(#2269b5 5%, #093782 100%);
+  background: linear-gradient(#2269b5 5%, #093782 100%);
+  text-shadow:1px 1px 0px #091c2e;
+}
+.en-btn.cdbl:hover {
+  background: -webkit-linear-gradient(#093782 5%, #2269b5 100%);
+  background: -o-linear-gradient(#093782 5%, #2269b5 100%);
+  background: -moz-linear-gradient(#093782 5%, #2269b5 100%);
+  background: linear-gradient(#093782 5%, #2269b5 100%);
+}
+.en-btn.cdbl.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#2269b5 5%, #093782 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#2269b5 5%, #093782 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#2269b5 5%, #093782 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#2269b5 5%, #093782 100%);
+}
+.en-btn.cdbl.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#093782 5%, #2269b5 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#093782 5%, #2269b5 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#093782 5%, #2269b5 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#093782 5%, #2269b5 100%);
+}
+.en-btn.cdbl.tdk {
+  text-shadow:1px 1px 0px #3071ad;
+}
+.en-btn.cdbl.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, -webkit-linear-gradient(#2269b5 5%, #093782 100%);
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, -o-linear-gradient(#2269b5 5%, #093782 100%);
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, -moz-linear-gradient(#2269b5 5%, #093782 100%);
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, linear-gradient(#2269b5 5%, #093782 100%);
+}
+.en-btn.cdbl.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, -webkit-linear-gradient(#093782 5%, #2269b5 100%);
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, -o-linear-gradient(#093782 5%, #2269b5 100%);
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, -moz-linear-gradient(#093782 5%, #2269b5 100%);
+  background: url(/images/btn_securecheckout_cdbl.png) no-repeat left center, linear-gradient(#093782 5%, #2269b5 100%);
+}
+
+.en-btn.cong {
+  background: -webkit-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: -o-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: -moz-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  text-shadow:1px 1px 0px #613b11;
+}
+.en-btn.cong:hover {
+  background: -webkit-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: -o-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: -moz-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: linear-gradient(#cf6f08 5%, #f59c3d 100%);
+}
+.en-btn.cong.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#f59c3d 5%, #cf6f08 100%);
+}
+.en-btn.cong.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#cf6f08 5%, #f59c3d 100%);
+}
+.en-btn.cong.tdk {
+  text-shadow:1px 1px 0px #ffbb6e;
+}
+.en-btn.cong.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, -webkit-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, -o-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, -moz-linear-gradient(#f59c3d 5%, #cf6f08 100%);
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, linear-gradient(#f59c3d 5%, #cf6f08 100%);
+}
+.en-btn.cong.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, -webkit-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, -o-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, -moz-linear-gradient(#cf6f08 5%, #f59c3d 100%);
+  background: url(/images/btn_securecheckout_cong.png) no-repeat left center, linear-gradient(#cf6f08 5%, #f59c3d 100%);
+}
+
+.en-btn.cyel {
+  background: -webkit-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: -o-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: -moz-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  text-shadow:1px 1px 0px #7d6b05;
+}
+.en-btn.cyel:hover {
+  background: -webkit-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: -o-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: -moz-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: linear-gradient(#ccac0e 5%, #f7d12a 100%);
+}
+.en-btn.cyel.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#f7d12a 5%, #ccac0e 100%);
+}
+.en-btn.cyel.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#ccac0e 5%, #f7d12a 100%);
+}
+.en-btn.cyel.tdk {
+  text-shadow:1px 1px 0px #fae884;
+}
+.en-btn.cyel.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, -webkit-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, -o-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, -moz-linear-gradient(#f7d12a 5%, #ccac0e 100%);
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, linear-gradient(#f7d12a 5%, #ccac0e 100%);
+}
+.en-btn.cyel.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, -webkit-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, -o-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, -moz-linear-gradient(#ccac0e 5%, #f7d12a 100%);
+  background: url(/images/btn_securecheckout_cyel.png) no-repeat left center, linear-gradient(#ccac0e 5%, #f7d12a 100%);
+}
+
+.en-btn.cple {
+  background: -webkit-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: -o-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: -moz-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: linear-gradient(#aa53ed 5%, #8527d1 100%);
+  text-shadow:1px 1px 0px #420c6e;
+}
+.en-btn.cple:hover {
+  background: -webkit-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: -o-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: -moz-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: linear-gradient(#8527d1 5%, #aa53ed 100%);
+}
+.en-btn.cple.iconlock {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#aa53ed 5%, #8527d1 100%);
+}
+.en-btn.cple.iconlock:hover {
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -webkit-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -o-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, -moz-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: url(/images/btn_securecheckout.png) no-repeat left center, linear-gradient(#8527d1 5%, #aa53ed 100%);
+}
+.en-btn.cple.tdk {
+  text-shadow:1px 1px 0px #ab70db;
+}
+.en-btn.cple.iconlock.tdk {
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, -webkit-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, -o-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, -moz-linear-gradient(#aa53ed 5%, #8527d1 100%);
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, linear-gradient(#aa53ed 5%, #8527d1 100%);
+}
+.en-btn.cple.iconlock.tdk:hover {
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, -webkit-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, -o-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, -moz-linear-gradient(#8527d1 5%, #aa53ed 100%);
+  background: url(/images/btn_securecheckout_cple.png) no-repeat left center, linear-gradient(#8527d1 5%, #aa53ed 100%);
+}
+/* Colors */

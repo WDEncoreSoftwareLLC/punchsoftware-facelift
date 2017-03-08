@@ -1,0 +1,42 @@
+.en-btn.iconlock {
+  background-image: url(/images/btn_securecheckout.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 40px;
+}
+*+html .en-btn.iconlock {
+  padding-left: 20px;
+}
+
+#product_top_right .AddToCartButton,
+#product_top_right .AddToCartButton:hover {
+  background-image: none;
+}
+
+.en-btn.iconlock.tdk, .en-btn.cgry.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cgry.png);
+}
+.en-btn.cred.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cred.png);
+}
+.en-btn.cgrn.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cgrn.png);
+}
+.en-btn.cdgr.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cdgr.png);
+}
+.en-btn.cblu.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cblu.png);
+}
+.en-btn.cdbl.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cdbl.png);
+}
+.en-btn.cong.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cong.png);
+}
+.en-btn.cyel.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cyel.png);
+}
+.en-btn.cple.iconlock.tdk {
+  background-image: url(/images/btn_securecheckout_cple.png);
+}

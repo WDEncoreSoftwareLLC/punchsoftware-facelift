@@ -569,10 +569,10 @@ a.version_type {
     margin-right: 10px;
 }
 .version_type:nth-child(1):before {
-    background-image: url(/images/version-windows-icon.png);
+    background-image: url(/images/version-macintosh-icon.png);
 }
 .version_type:nth-child(2):before {
-    background-image: url(/images/version-macintosh-icon.png);
+    background-image: url(/images/version-windows-icon.png);
 }
 
 #related_products .related_product_top:before {
