@@ -335,176 +335,203 @@
                         <a href="c-10-email-sign-up.aspx?utm_source=EmailNewsLetter-Banner&amp;utm_medium=EmailNewsLetter-Banner&amp;utm_campaign=EmailNewsLetter-Banner&amp;utm_nooverride=1">
                             <img src="/images/punchsoftware/banner_promo/pu_banner_EmailNewsLetter_032316.jpg" alt="Sign up for our emails to receive exclusive deals." width="620" height="76" border="0">
                         </a>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-144-punch-interior-design-suite-v19.aspx"><img id="ProductPic144" name="ProductPic144" src="images/Product/icon/4329.jpg" alt="Punch! Interior Design Suite v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-144-punch-interior-design-suite-v19.aspx">Punch! Interior Design Suite v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_784"><span class="variantprice">&nbsp;$39.99</span>&nbsp;</span></div>
+                        <div class="new-content">
+                            <h2 style="color: #3c3c3c;">Home and Landscape Design Software</h2>
+                            <p>Perfect for the Do-it-Yourself Beginner or Seasoned Professional</p>
+                            <p>Punch! Home software seamlessly mirrors 2D floorplans and outdoor spaces with realistic 3D renderings, allowing you to precisely edit and take virtual walkthroughs of your dream design. Our extensive and adaptable range of products cover home design, interior design, landscape design, and everything in between. No special skills needed!</p>
+
+                            <div class="dynamic">
+                                <div class="home-design">
+                                    <h2>Home Design</h2>
+                                    <p>Plan your dream home with an intuitive and impressive set of design and visualization tools. Our home design software covers everything you might need when designing a new home or remodeling a classic. Build a project from a professionally designed floor plan or create your own design. Add details with the full featured tool box and extensive library of name brand products, materials, and furnishings to generate unlimited home design ideas and floorplans.</p>
+                                    <p><a href="c-11-home-design.aspx">Learn More</a></p>
+                                </div>
+                                <div class="home-design">
+                                    <h2>Landscape Design</h2>
+                                    <p>The perfect set of tools to design or enhance your landscaping and outdoor living spaces. Design gardens, patios, decks, outdoor kitchens, water features, fences, and other beautiful exterior spaces with simple to use landscape design software. Features include a comprehensive plant library, drag-and-drop designing, premade templates, and 2D and 3D views.</p>
+                                    <p><a href="c-14-landscape-design.aspx">Learn More</a></p>
+                                </div>
+                                <div class="home-design">
+                                    <h2>Interior Design</h2>
+                                    <p>A remodeler’s dream come true! Import or create your own custom floorplan and pick from over 4000 3D objects to enhance your interior design. Explore different design combinations to find what works for your interior space and lifestyle. Paint color, lighting, materials, accessories, and decor offer a world of beautiful possibilities with our easy-to-use interior design software.</p>
+                                    <p><a href="c-12-interior-design.aspx">Learn More</a></p>
+                                </div>
                             </div>
-                            <div class="product_summary">From simple renovations to complete home remodels, Interior Design Suite is the right tool for your home...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-144-punch-interior-design-suite-v19.aspx">Learn More</a></span></div>
                         </div>
                     </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-139-punch-interior-design-for-mac-v19.aspx"><img id="ProductPic139" name="ProductPic139" src="images/Product/icon/4318.jpg" alt="Punch! Interior Design for Mac v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-139-punch-interior-design-for-mac-v19.aspx">Punch! Interior Design for Mac v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_749"><span class="variantprice">&nbsp;$49.99</span>&nbsp;</span></div>
+                    <?php
+                        /***
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-144-punch-interior-design-suite-v19.aspx"><img id="ProductPic144" name="ProductPic144" src="images/Product/icon/4329.jpg" alt="Punch! Interior Design Suite v19"></a></div>
                             </div>
-                            <div class="product_summary">Showcase the interior of your home with amazing new designs. Perfect every detail with your creativity and...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-139-punch-interior-design-for-mac-v19.aspx">Learn More</a></span></div>
-                        </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-143-punch-landscape-deck-patio-v19.aspx"><img id="ProductPic143" name="ProductPic143" src="images/Product/icon/4328.jpg" alt="Punch! Landscape, Deck &amp; Patio v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-143-punch-landscape-deck-patio-v19.aspx">Punch! Landscape, Deck &amp; Patio v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_779"><span class="variantprice">&nbsp;$39.99</span>&nbsp;</span></div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-144-punch-interior-design-suite-v19.aspx">Punch! Interior Design Suite v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_784"><span class="variantprice">&nbsp;$39.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">From simple renovations to complete home remodels, Interior Design Suite is the right tool for your home...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-144-punch-interior-design-suite-v19.aspx">Learn More</a></span></div>
                             </div>
-                            <div class="product_summary">Design beautiful landscaping and outdoor spaces! Punch! Landscape Deck &amp; Patio Design provides a...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-143-punch-landscape-deck-patio-v19.aspx">Learn More</a></span></div>
                         </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-138-punch-landscape-design-for-mac-v19.aspx"><img id="ProductPic138" name="ProductPic138" src="images/Product/icon/4317.jpg" alt="Punch! Landscape Design for Mac v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-138-punch-landscape-design-for-mac-v19.aspx">Punch! Landscape Design for Mac v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_742"><span class="variantprice">&nbsp;$59.99</span>&nbsp;</span></div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-139-punch-interior-design-for-mac-v19.aspx"><img id="ProductPic139" name="ProductPic139" src="images/Product/icon/4318.jpg" alt="Punch! Interior Design for Mac v19"></a></div>
                             </div>
-                            <div class="product_summary">Make amazing landscaping and outdoor living plans. Renovate and rebuild or start anew. Bring your home's...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-138-punch-landscape-design-for-mac-v19.aspx">Learn More</a></span></div>
-                        </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-148-punch-home-landscape-design-architectural-series-v19.aspx"><img id="ProductPic148" name="ProductPic148" src="images/Product/icon/4333.jpg" alt="Punch! Home &amp; Landscape Design Architectural Series v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-148-punch-home-landscape-design-architectural-series-v19.aspx">Punch! Home &amp; Landscape Design Architectural Series v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_813"><span class="variantprice">&nbsp;$399.99</span>&nbsp;</span></div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-139-punch-interior-design-for-mac-v19.aspx">Punch! Interior Design for Mac v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_749"><span class="variantprice">&nbsp;$49.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Showcase the interior of your home with amazing new designs. Perfect every detail with your creativity and...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-139-punch-interior-design-for-mac-v19.aspx">Learn More</a></span></div>
                             </div>
-                            <div class="product_summary">Create architectural quality designs and plans with the ultimate home design software for architects,...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-148-punch-home-landscape-design-architectural-series-v19.aspx">Learn More</a></span></div>
                         </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx"><img id="ProductPic141" name="ProductPic141" src="images/Product/icon/4320.jpg" alt="Punch! Home Design Studio Complete for Mac v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx">Punch! Home Design Studio Complete for Mac v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_762"><span class="variantprice">&nbsp;$199.99</span>&nbsp;</span></div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-143-punch-landscape-deck-patio-v19.aspx"><img id="ProductPic143" name="ProductPic143" src="images/Product/icon/4328.jpg" alt="Punch! Landscape, Deck &amp; Patio v19"></a></div>
                             </div>
-                            <div class="product_summary">Impressive tools and realistic visualization combine into the ideal home and landscape design software...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx">Learn More</a></span></div>
-                        </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-147-punch-home-landscape-design-professional-v19.aspx"><img id="ProductPic147" name="ProductPic147" src="images/Product/icon/4332.jpg" alt="Punch! Home &amp; Landscape Design Professional v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-147-punch-home-landscape-design-professional-v19.aspx">Punch! Home &amp; Landscape Design Professional v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_802"><span class="variantprice">&nbsp;$199.99</span>&nbsp;</span></div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-143-punch-landscape-deck-patio-v19.aspx">Punch! Landscape, Deck &amp; Patio v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_779"><span class="variantprice">&nbsp;$39.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Design beautiful landscaping and outdoor spaces! Punch! Landscape Deck &amp; Patio Design provides a...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-143-punch-landscape-deck-patio-v19.aspx">Learn More</a></span></div>
                             </div>
-                            <div class="product_summary">Design beautiful spaces quickly and easily with the advanced features and tools in Punch Professional home...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-147-punch-home-landscape-design-professional-v19.aspx">Learn More</a></span></div>
                         </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-142-punch-home-design-studio-for-mac-v19.aspx"><img id="ProductPic142" name="ProductPic142" src="images/Product/icon/4321.jpg" alt="Punch! Home Design Studio for Mac v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-142-punch-home-design-studio-for-mac-v19.aspx">Punch! Home Design Studio for Mac v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_773"><span class="variantprice">&nbsp;$149.99</span>&nbsp;</span></div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-138-punch-landscape-design-for-mac-v19.aspx"><img id="ProductPic138" name="ProductPic138" src="images/Product/icon/4317.jpg" alt="Punch! Landscape Design for Mac v19"></a></div>
                             </div>
-                            <div class="product_summary">Transform your vision into a workable home and landscape plan. Professionals and DIYers can design or...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-142-punch-home-design-studio-for-mac-v19.aspx">Learn More</a></span></div>
-                        </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-146-punch-home-landscape-design-premium-v19.aspx"><img id="ProductPic146" name="ProductPic146" src="images/Product/icon/4331.jpg" alt="Punch! Home &amp; Landscape Design Premium v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-146-punch-home-landscape-design-premium-v19.aspx">Punch! Home &amp; Landscape Design Premium v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_801"><span class="variantprice">&nbsp;$99.99</span>&nbsp;</span></div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-138-punch-landscape-design-for-mac-v19.aspx">Punch! Landscape Design for Mac v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_742"><span class="variantprice">&nbsp;$59.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Make amazing landscaping and outdoor living plans. Renovate and rebuild or start anew. Bring your home's...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-138-punch-landscape-design-for-mac-v19.aspx">Learn More</a></span></div>
                             </div>
-                            <div class="product_summary">Planning your home design project has never been easier! Punch! Home and Landscape Design Premium has the...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-146-punch-home-landscape-design-premium-v19.aspx">Learn More</a></span></div>
                         </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx"><img id="ProductPic140" name="ProductPic140" src="images/Product/icon/4319.jpg" alt="Punch! Home Design Studio Essentials for Mac v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx">Punch! Home Design Studio Essentials for Mac v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_756"><span class="variantprice">&nbsp;$99.99</span>&nbsp;</span></div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-148-punch-home-landscape-design-architectural-series-v19.aspx"><img id="ProductPic148" name="ProductPic148" src="images/Product/icon/4333.jpg" alt="Punch! Home &amp; Landscape Design Architectural Series v19"></a></div>
                             </div>
-                            <div class="product_summary">Design your home and landscape the fast and easy way. Over 40 designer quality home plans provide...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx">Learn More</a></span></div>
-                        </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-145-punch-home-landscape-design-essentials-v19.aspx"><img id="ProductPic145" name="ProductPic145" src="images/Product/icon/4330.jpg" alt="Punch! Home &amp; Landscape Design Essentials v19"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-145-punch-home-landscape-design-essentials-v19.aspx">Punch! Home &amp; Landscape Design Essentials v19</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_792"><span class="variantprice">&nbsp;$49.99</span>&nbsp;</span></div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-148-punch-home-landscape-design-architectural-series-v19.aspx">Punch! Home &amp; Landscape Design Architectural Series v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_813"><span class="variantprice">&nbsp;$399.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Create architectural quality designs and plans with the ultimate home design software for architects,...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-148-punch-home-landscape-design-architectural-series-v19.aspx">Learn More</a></span></div>
                             </div>
-                            <div class="product_summary">Design and update your home with Punch Home and Landscape Design Essentials, the best version yet! Whether...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-145-punch-home-landscape-design-essentials-v19.aspx">Learn More</a></span></div>
                         </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx"><img id="ProductPic150" name="ProductPic150" src="images/Product/icon/4346.jpg" alt="Learning Punch Software: Training, Tools &amp; Tutorials for V19 Mac Version by Patricia Gamburgo"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx">Learning Punch Software: Training, Tools &amp; Tutorials for V19 Mac Version by Patricia Gamburgo</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_830"><span class="variantprice">&nbsp;$34.99</span>&nbsp;</span></div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx"><img id="ProductPic141" name="ProductPic141" src="images/Product/icon/4320.jpg" alt="Punch! Home Design Studio Complete for Mac v19"></a></div>
                             </div>
-                            <div class="product_summary">Take your home, landscape or commercial building project to the next level. Work like a pro using the...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx">Learn More</a></span></div>
-                        </div>
-                    </div>
-                    <div class="product">
-                        <div class="product_right">
-                            <div class="product_image"><a href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamb.aspx"><img id="ProductPic149" name="ProductPic149" src="images/Product/icon/4345.jpg" alt="Learning Punch! Software: Training, Tools &amp; Tutorials for V19 - Windows Version - by Patricia Gamburgo"></a></div>
-                        </div>
-                        <div class="product_left">
-                            <div class="product_name"><a href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamburgo.aspx">Learning Punch! Software: Training, Tools &amp; Tutorials for V19 - Windows Version - by Patricia Gamburgo</a></div>
-                            <div>
-                                <div class="product_price"><span id="VariantPrice_829"><span class="variantprice">&nbsp;$34.99</span>&nbsp;</span></div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx">Punch! Home Design Studio Complete for Mac v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_762"><span class="variantprice">&nbsp;$199.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Impressive tools and realistic visualization combine into the ideal home and landscape design software...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-141-punch-home-design-studio-complete-for-mac-v19.aspx">Learn More</a></span></div>
                             </div>
-                            <div class="product_summary">Take your home, landscape or commercial building project to the next level. Work like a pro using the...</div>
-                            <div><span class="more"><a class="en-btn szsm cdbl" href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamburgo.aspx">Learn More</a></span></div>
                         </div>
-                    </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-147-punch-home-landscape-design-professional-v19.aspx"><img id="ProductPic147" name="ProductPic147" src="images/Product/icon/4332.jpg" alt="Punch! Home &amp; Landscape Design Professional v19"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-147-punch-home-landscape-design-professional-v19.aspx">Punch! Home &amp; Landscape Design Professional v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_802"><span class="variantprice">&nbsp;$199.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Design beautiful spaces quickly and easily with the advanced features and tools in Punch Professional home...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-147-punch-home-landscape-design-professional-v19.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-142-punch-home-design-studio-for-mac-v19.aspx"><img id="ProductPic142" name="ProductPic142" src="images/Product/icon/4321.jpg" alt="Punch! Home Design Studio for Mac v19"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-142-punch-home-design-studio-for-mac-v19.aspx">Punch! Home Design Studio for Mac v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_773"><span class="variantprice">&nbsp;$149.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Transform your vision into a workable home and landscape plan. Professionals and DIYers can design or...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-142-punch-home-design-studio-for-mac-v19.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-146-punch-home-landscape-design-premium-v19.aspx"><img id="ProductPic146" name="ProductPic146" src="images/Product/icon/4331.jpg" alt="Punch! Home &amp; Landscape Design Premium v19"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-146-punch-home-landscape-design-premium-v19.aspx">Punch! Home &amp; Landscape Design Premium v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_801"><span class="variantprice">&nbsp;$99.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Planning your home design project has never been easier! Punch! Home and Landscape Design Premium has the...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-146-punch-home-landscape-design-premium-v19.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx"><img id="ProductPic140" name="ProductPic140" src="images/Product/icon/4319.jpg" alt="Punch! Home Design Studio Essentials for Mac v19"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx">Punch! Home Design Studio Essentials for Mac v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_756"><span class="variantprice">&nbsp;$99.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Design your home and landscape the fast and easy way. Over 40 designer quality home plans provide...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-140-punch-home-design-studio-essentials-for-mac-v19.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-145-punch-home-landscape-design-essentials-v19.aspx"><img id="ProductPic145" name="ProductPic145" src="images/Product/icon/4330.jpg" alt="Punch! Home &amp; Landscape Design Essentials v19"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-145-punch-home-landscape-design-essentials-v19.aspx">Punch! Home &amp; Landscape Design Essentials v19</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_792"><span class="variantprice">&nbsp;$49.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Design and update your home with Punch Home and Landscape Design Essentials, the best version yet! Whether...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-145-punch-home-landscape-design-essentials-v19.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx"><img id="ProductPic150" name="ProductPic150" src="images/Product/icon/4346.jpg" alt="Learning Punch Software: Training, Tools &amp; Tutorials for V19 Mac Version by Patricia Gamburgo"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx">Learning Punch Software: Training, Tools &amp; Tutorials for V19 Mac Version by Patricia Gamburgo</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_830"><span class="variantprice">&nbsp;$34.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Take your home, landscape or commercial building project to the next level. Work like a pro using the...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-150-learning-punch-software-training-tools-tutorials-for-v19-mac-version-by-patricia-gamburgo.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        <div class="product">
+                            <div class="product_right">
+                                <div class="product_image"><a href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamb.aspx"><img id="ProductPic149" name="ProductPic149" src="images/Product/icon/4345.jpg" alt="Learning Punch! Software: Training, Tools &amp; Tutorials for V19 - Windows Version - by Patricia Gamburgo"></a></div>
+                            </div>
+                            <div class="product_left">
+                                <div class="product_name"><a href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamburgo.aspx">Learning Punch! Software: Training, Tools &amp; Tutorials for V19 - Windows Version - by Patricia Gamburgo</a></div>
+                                <div>
+                                    <div class="product_price"><span id="VariantPrice_829"><span class="variantprice">&nbsp;$34.99</span>&nbsp;</span></div>
+                                </div>
+                                <div class="product_summary">Take your home, landscape or commercial building project to the next level. Work like a pro using the...</div>
+                                <div><span class="more"><a class="en-btn szsm cdbl" href="p-149-learning-punch-software-training-tools-tutorials-for-v19-windows-version-by-patricia-gamburgo.aspx">Learn More</a></span></div>
+                            </div>
+                        </div>
+                        */
+                    ?>
                 </div>
 
                 <div style="clear:both;"></div>
@@ -677,7 +704,33 @@
                 <div id="sidebarRightHTMLContent1">
                     
                 </div>
+
                 <div id="sidebarRightHTMLContent2">
+                    
+                    <!-- Which Version -->
+                    <div class="version">
+                        <div class="which_version">Which version is right for you?</div>
+                        <div class="version_compare">Compare titles and find the perfect fit</div>
+                        <div class="version_buttons">
+                            <a class="version_type" href="http://www.punchsoftware.com/c-33-which-mac-version-is-right-for-me.aspx">For MAC</a>
+                            <a class="version_type" href="http://www.punchsoftware.com/c-36-which-pc-version-is-right-for-me.aspx">For PC</a>
+                        </div>
+                    </div>
+                    <!-- Which Version -->
+
+                    <a class="video-forums" href="c-43-tutorials.aspx">
+                        <img src="/images/video-tutorials.png" alt="Visit the Forums" width="40" height="40">
+                        <div class="content">Video <br />Tutorials</div>
+                    </a>
+                    
+                    <a class="video-forums" href="http://forums.punchsoftware.com">
+                        <img src="/images/visit-forums.png" alt="Visit the Forums" width="38" height="27">
+                        <div class="content">Visit the <br />Forums</div>
+                    </a>
+                        
+
+                    <?php
+                    /*
                     <a href="http://support.encore.com/customerservice/refunds.aspx" title="Click Here for our Easy Returns" target="_blank"><img alt="Punch Software| Shop with Confidence Guarantee" src="/images/punchsoftware/banner_promo/PU_Banner_Guarantee.jpg" style="margin-bottom:10px;" width="160" border="0" height="271"></a> 
 
                     <img src="/images/punchsoftware/banner_promo/pu_seal_123014.png" alt="#1 Home Design Software since 2000." border="0" width="170" height="160" style="margin:0 0 10px 0;">
@@ -687,6 +740,8 @@
                     <a href="http://forums.punchsoftware.com/?@780.RR84awu3yjz@"><img src="/images/punchsoftware/banner_promo/Forum-Banner.jpg" alt="Click Here for Online Forums." border="0" height="250" width="160" style="margin-bottom:10px;"></a>
 
                     <a href="http://www.punchsoftware.com/c-43-tutorials.aspx"><img src="/images/punchsoftware/banner_promo/VideoTutorial-Banner.jpg" alt="Click here for video tutorials." border="0" height="200" width="160" style="margin-bottom:10px;"></a>
+                    */
+                    ?>
                 </div>
             </div>
             

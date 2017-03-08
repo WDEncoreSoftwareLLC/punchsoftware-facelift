@@ -246,13 +246,58 @@ ul.product_listing li.product_listing_item a:hover {
     z-index: 2;
     background-color: #ffffff;
 }
+#B2C_Content .new-content {
+    font-family: 'Montserrat', sans-serif;
+}
+#B2C_Content .new-content p, #B2C_Content .new-content h2 {
+    margin-bottom: 12px;
+}
+#B2C_Content .new-content p {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    color: #3c3c3c;
+}
+#B2C_Content .new-content h2 {
+    font-size: 20px;
+    line-height: 24px;
+    color: #233b49;
+}
+
+.new-content .home-design {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+#B2C_Content .new-content a {
+    color: #ee3124;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#B2C_Content .new-content a:before {
+    content: '';
+    display: inline-block;
+    height: 0;
+    width: 0;
+    border-left: 0.4em solid #ee3124;
+    border-top: 0.4em solid transparent;
+    border-bottom: 0.4em solid transparent;
+    vertical-align: baseline;
+    border-right: 0;
+    margin-right: 0.5em;
+}
 
 #B2C_Content {
     font-size: 12px;
     line-height: 14px;
     display: inline-block;
     *display: inline;
-    zoom: 1;float: none;
+    zoom: 1;
+    float: none;
     position: relative;
     z-index: 3;
     margin: 0 10px 0 10px;
@@ -267,14 +312,16 @@ ul.product_listing li.product_listing_item a:hover {
     float: none;
     display: inline-block;
     *display: inline;
-    zoom: 1;vertical-align: top;
+    zoom: 1;
+    vertical-align: top;
 }
 
 #home_page .product_right, #category_page .product_right, #search_page .product_right {
     float: none;
     display: inline-block;
     *display: inline;
-    zoom: 1;width: 92px;
+    zoom: 1;
+    width: 92px;
 }
 
 #home_page .product_left, #category_page .product_left, #search_page .product_left {
@@ -283,7 +330,8 @@ ul.product_listing li.product_listing_item a:hover {
     float: none;
     display: inline-block;
     *display: inline;
-    zoom: 1;vertical-align: top;
+    zoom: 1;
+    vertical-align: top;
 }
 
 #search_page .product_price {
@@ -295,7 +343,8 @@ ul.product_listing li.product_listing_item a:hover {
     float: none;
     display: inline-block;
     *display: inline;
-    zoom: 1;vertical-align: top;
+    zoom: 1;
+    vertical-align: top;
 }
 
 #home_page .product_summary + div, #category_page .product_summary + div, #search_page .product_summary + div {
@@ -306,7 +355,8 @@ ul.product_listing li.product_listing_item a:hover {
     float: none;
     display: inline-block;
     *display: inline;
-    zoom: 1;}
+    zoom: 1;
+}
 
 #B2C_Category_CategoryName h1 {
     font-size: 20px;
@@ -525,7 +575,12 @@ img[alt="Registration"] {
     position: relative;
     background-color: #d6d5c4;
 }
-
+.version {
+    text-align: left;
+}
+#B2C_SidebarLeft .version {
+    display: none;
+}
 .which_version {
     color: #233b49;
 }
@@ -573,6 +628,27 @@ a.version_type {
 }
 .version_type:nth-child(2):before {
     background-image: url(/images/version-windows-icon.png);
+}
+
+a.video-forums {
+    font-size: 13px;
+    line-height: 15px;
+    text-align: left;
+    padding: 12px 0 12px 12px;
+    color: #233b49;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    text-decoration: none;
+    background-color: #d6d5c4;
+    margin-bottom: 10px;
+}
+.video-forums img {
+    margin-right: 10px;
+}
+.video-forums img, .video-forums .content {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 #related_products .related_product_top:before {

@@ -50,6 +50,13 @@
         padding: 6px 0 4px 5px;
     }
 
+    #B2C_SidebarLeft .version {
+        display: block;
+    }
+    #B2C_SidebarRight .version {
+        display: none;
+    }
+
     #sidebarLeftHTMLContent2 img {
         display: none;
     }
@@ -162,6 +169,14 @@
 }
 
 @media (max-width: 769px) {
+    #B2C_Header #headerLogo1 {
+        text-align: center;
+    }
+
+    #B2C_Header #headerSearch {
+        margin: 25px 10px 0 5px;
+    }
+
     #B2C_Content {
         width: 372px;
         margin: 0;
@@ -565,14 +580,16 @@
     }
 
     #B2C_Header #horizNav .mobile {
-        background-image: url(/images/extend.png);
+        /*background-image: url(/images/extend.png);*/
+        background-image: url(/images/hamburger.png);
+        background-size: 20px 13px;
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
     }
 
     #B2C_Header #horizNav .mobile.extended {
-        background-image: url(/images/collapse.png);
+        /*background-image: url(/images/collapse.png);*/
     }
 
     #B2C_Seperator .breadcrumb .breadcrumb_nav:nth-child(1) {
@@ -599,6 +616,10 @@
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+    }
+
+    #B2C_Header #top_nav li a.active span, #B2C_Header #top_nav li a:hover span {
+        background-color: #5a5a5a;
     }
 }
 
