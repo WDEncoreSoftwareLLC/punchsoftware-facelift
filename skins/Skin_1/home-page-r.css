@@ -1,0 +1,57 @@
+#B2C_Content .new-content {
+    font-family: 'Montserrat', sans-serif;
+}
+#B2C_Content .new-content p, #B2C_Content .new-content h2 {
+    margin-bottom: 12px;
+}
+#B2C_Content .new-content p {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    color: #3c3c3c;
+}
+#B2C_Content .new-content h2 {
+    font-size: 20px;
+    line-height: 24px;
+    color: #233b49;
+}
+
+.home-design {
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+#B2C_Content .new-content a {
+    color: #ee3124;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#B2C_Content .new-content a:before {
+    content: '';
+    display: inline-block;
+    height: 0;
+    width: 0;
+    border-left: 0.4em solid #ee3124;
+    border-top: 0.4em solid transparent;
+    border-bottom: 0.4em solid transparent;
+    vertical-align: baseline;
+    border-right: 0;
+    margin-right: 0.5em;
+}
+
+.home-design:before {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 0;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.home-design:nth-child(1):before {
+    background-image: url();
+}

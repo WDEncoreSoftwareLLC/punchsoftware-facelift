@@ -165,7 +165,7 @@
                 <div id="sidebarLeftHTMLContent2">
                     <!-- Which Version -->
                     <div class="version">
-                        <div class="which_version">Which version is right for you?</div>
+                        <div class="which_version">Which Version is Right for You?</div>
                         <div class="version_compare">Compare titles and find the perfect fit</div>
                         <div class="version_buttons">
                             <a class="version_type" href="http://www.punchsoftware.com/c-33-which-mac-version-is-right-for-me.aspx">For MAC</a>
@@ -328,6 +328,7 @@
                 <!-- CONTENTS START -->
                 <div id="home_page">
                     <div id="B2C_Category_HTMLContent1">
+                        <link rel="stylesheet" href="skins/Skin_1/home-page-r.css" type="text/css">
                         <a href="c-14-landscape-design.aspx?utm_source=Home-Page&amp;utm_medium=Banner&amp;utm_campaign=Landscape Design Software&amp;utm_nooverride=1">
                             <img src="/images/punchsoftware/banner_promo/PU_Banner_MacPCLandscape_022717.jpg" alt="Landscape Design Software from Punch!" width="620" height="212" border="0">
                         </a>
@@ -709,7 +710,7 @@
                     
                     <!-- Which Version -->
                     <div class="version">
-                        <div class="which_version">Which version is right for you?</div>
+                        <div class="which_version">Which Version is Right for You?</div>
                         <div class="version_compare">Compare titles and find the perfect fit</div>
                         <div class="version_buttons">
                             <a class="version_type" href="http://www.punchsoftware.com/c-33-which-mac-version-is-right-for-me.aspx">For MAC</a>
