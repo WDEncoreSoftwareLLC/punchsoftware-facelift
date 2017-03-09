@@ -173,6 +173,17 @@
                         </div>
                     </div>
                     <!-- Which Version -->
+
+                    <a class="video-forums" href="c-43-tutorials.aspx">
+                        <img src="/images/video-tutorials.png" alt="Visit the Forums" width="40" height="40">
+                        <div class="content">Video <br />Tutorials</div>
+                    </a>
+                    
+                    <a class="video-forums" href="http://forums.punchsoftware.com">
+                        <img src="/images/visit-forums.png" alt="Visit the Forums" width="38" height="27">
+                        <div class="content">Visit the <br />Forums</div>
+                    </a>
+
                     <div id="adblock1"></div>
                 </div>
 
@@ -329,13 +340,15 @@
                 <div id="home_page">
                     <div id="B2C_Category_HTMLContent1">
                         <link rel="stylesheet" href="skins/Skin_1/home-page-r.css" type="text/css">
-                        <a href="c-14-landscape-design.aspx?utm_source=Home-Page&amp;utm_medium=Banner&amp;utm_campaign=Landscape Design Software&amp;utm_nooverride=1">
-                            <img src="/images/punchsoftware/banner_promo/PU_Banner_MacPCLandscape_022717.jpg" alt="Landscape Design Software from Punch!" width="620" height="212" border="0">
-                        </a>
+                        
+                        <img src="/images/punchsoftware/banner_promo/Banner_030917.jpg" alt="Software to Design Your Dream Home Inside and Out" width="620" height="125" border="0">
+                        
                         <br>
-                        <a href="c-10-email-sign-up.aspx?utm_source=EmailNewsLetter-Banner&amp;utm_medium=EmailNewsLetter-Banner&amp;utm_campaign=EmailNewsLetter-Banner&amp;utm_nooverride=1">
-                            <img src="/images/punchsoftware/banner_promo/pu_banner_EmailNewsLetter_032316.jpg" alt="Sign up for our emails to receive exclusive deals." width="620" height="76" border="0">
-                        </a>
+
+                        <div class="video-16-9">
+                            <iframe width="600" height="338" src="https://www.youtube.com/embed/IWRcAxT0RkQ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
                         <div class="new-content">
                             <h2 style="color: #3c3c3c;">Home and Landscape Design Software</h2>
                             <p>Perfect for the Do-it-Yourself Beginner or Seasoned Professional</p>

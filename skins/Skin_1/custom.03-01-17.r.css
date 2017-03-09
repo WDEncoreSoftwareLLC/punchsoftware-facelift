@@ -50,15 +50,15 @@
         padding: 6px 0 4px 5px;
     }
 
-    #B2C_SidebarLeft .version {
+    #B2C_SidebarLeft .version, #B2C_SidebarLeft .video-forums {
         display: block;
     }
-    #B2C_SidebarRight .version {
+    #B2C_SidebarRight .version #B2C_SidebarRight .video-forums {
         display: none;
     }
 
     #sidebarLeftHTMLContent2 img {
-        display: none;
+        /*display: none;*/
     }
 
     #B2C_PageContent * {
@@ -415,8 +415,8 @@
         left: auto;
         bottom: auto;
         cursor: pointer;
-        color: #ffffff;
-        border: 1px solid #ffffff;
+        color: #233b49;
+        border: 1px solid #233b49;
         text-align: center;
         border-radius: 50%;
         font-weight: bold;
@@ -424,6 +424,24 @@
 
     #B2C_SidebarLeft #sidebarLeftCategories.extended #category_top:after, #B2C_SidebarLeft #sidebarLeftBestSellers #SidebarLeftBestSellersControl_pnlProductListing.extended #product_listing_top:after, #B2C_SidebarLeft #sidebarLeftVerticalProductGrid #SidebarLeftVerticalProductList_pnlProductListing.extended #product_listing_top:after, .version.extended .which_version:after {
         content: '\2013';
+    }
+    #B2C_SidebarLeft .video-forums {
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    #B2C_SidebarLeft .video-forums br {
+        display: none;
+    }
+    #B2C_SidebarLeft .video-forums img {
+        width: 18px;
+        height: auto;
+        margin-right: 4px;
+    }
+    #B2C_SidebarLeft .video-forums, #B2C_SidebarLeft #sidebarLeftCategories, #B2C_SidebarLeft .version {
+        margin-bottom: 1px;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: 15px;
     }
 
     #B2C_PageContent:before {
