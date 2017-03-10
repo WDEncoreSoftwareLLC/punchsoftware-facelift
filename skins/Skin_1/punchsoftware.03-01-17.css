@@ -390,6 +390,7 @@ body {
     padding: 7px 15px;
     border-right: 1px solid #e1e1e1;
     background: #dbdbdb;
+    display: inline-block;
 }
 
 #B2C_Seperator .breadcrumb .breadcrumb_current, #B2C_Seperator .breadcrumb .breadcrumb_current_nav {
@@ -410,4 +411,18 @@ body {
 #B2C_PageContent, #B2C_Footer {
     font-size: 12px;
     line-height: 14px;
+}
+
+
+.more a.en-btn.szsm.cdbl {
+    border-radius: 0;
+    border: 0;
+    box-shadow: none;
+    background: #ee3124;
+}
+
+#category_page .product {
+    border: 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
